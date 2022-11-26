@@ -1,5 +1,5 @@
 
-const API_KEY = "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";
+const API_KEY = "dummy";
 
 function fetchNERs(element, data, API_KEY) {
     return new Promise((resolve, reject) => {
